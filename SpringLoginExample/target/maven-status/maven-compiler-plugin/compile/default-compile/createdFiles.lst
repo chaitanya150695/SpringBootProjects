@@ -1,0 +1,10 @@
+com\springDemo\LoginExample\Service\UserServiceImpl.class
+com\springDemo\LoginExample\Service\UserService.class
+com\springDemo\LoginExample\Dao\UserDao.class
+com\springDemo\LoginExample\Dao\UserMapper.class
+com\springDemo\LoginExample\Dao\UserDaoImpl.class
+com\springDemo\LoginExample\Model\Login.class
+com\springDemo\LoginExample\Dao\HibernateUtil.class
+com\springDemo\LoginExample\Controller\LoginController.class
+com\springDemo\LoginExample\Model\User.class
+com\springDemo\LoginExample\Controller\RegistrationController.class
