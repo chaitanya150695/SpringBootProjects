@@ -13,12 +13,12 @@ public class StubProfileRepository implements ProfileRepository {
 	private Map<String, Profile> profileData = new HashMap<String, Profile>();
 	
 	public StubProfileRepository() {
-		Profile profile = new Profile("1000", "Ajit");
-		profileData.put("1000", profile);
-		profile = new Profile("2000", "Amay");
-		profileData.put("2000", profile);
-		profile = new Profile("3000", "Dinesh");
-		profileData.put("3000", profile);
+		Profile profile = new Profile("1", "Chaitanya");
+		profileData.put("1", profile);
+		profile = new Profile("2", "Yash");
+		profileData.put("2", profile);
+		profile = new Profile("3", "John");
+		profileData.put("3", profile);
 	}
 	
 	@Override
